@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an electrical engineering student who loves building new things! Arduino microcontrollers, Python games, custom Sudoku. 
+I'm an electrical engineering student who loves building new things! Arduino microcontrollers, basic Python games, custom Sudoku. 
 
 <!--
 **fyemane/fyemane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
